@@ -13,7 +13,7 @@ exl-id: 89765be2-366d-45f8-8e1c-a192ecbb2694
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
 source-wordcount: '36'
-ht-degree: 61%
+ht-degree: 66%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 61%
 
 Lär dig hur du skapar e-postleveranser direkt från en kampanj.
 
->[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12&learn=on){transcript=true}

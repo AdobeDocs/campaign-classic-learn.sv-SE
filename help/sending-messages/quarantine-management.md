@@ -13,7 +13,7 @@ exl-id: 1273792a-e778-4a85-8443-2e5a872ea2e8
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 94%
 
 Lär dig hur karantänhantering fungerar i Adobe Campaign och lär du hur du hanterar adresser i karantän.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415818?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3415818?quality=12&learn=on){transcript=true}

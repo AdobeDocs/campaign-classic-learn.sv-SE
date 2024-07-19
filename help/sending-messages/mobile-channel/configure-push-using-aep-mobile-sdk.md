@@ -12,7 +12,7 @@ exl-id: 7d1673ed-19a0-4c68-8bba-281609a16aaf
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
 source-wordcount: '49'
-ht-degree: 67%
+ht-degree: 71%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 67%
 
 I den här videon förklaras hur du konfigurerar och installerar Adobe Experience Platform Mobile SDK.
 
->[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12&learn=on){transcript=true}

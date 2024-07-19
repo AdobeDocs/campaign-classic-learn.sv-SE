@@ -11,8 +11,8 @@ level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 49%
+source-wordcount: '244'
+ht-degree: 51%
 
 ---
 
@@ -24,13 +24,13 @@ I den här självstudiekursen beskrivs hur du ställer in en återkommande och k
 
 De återkommande och kontinuerliga leveranserna skiljer sig åt när det gäller hur kontaktdata hanteras:
 
-* The **kontinuerlig leverans** Med kan du lägga till nya mottagare i en befintlig leverans och undvika att du måste skapa en ny leverans varje gång en ny mottagare läggs till. Du kan uppdatera den kreativa informationen direkt i kampanjarbetsflödet och den uppdaterar mallen i leveransmallens resursmapp.
+* Med den **kontinuerliga leveransen** kan du lägga till nya mottagare i en befintlig leverans och undvika att du måste skapa en ny leverans varje gång en ny mottagare läggs till. Du kan uppdatera den kreativa informationen direkt i kampanjarbetsflödet och den uppdaterar mallen i leveransmallens resursmapp.
 
   En kontinuerlig leverans skapar en enda leverans- och leveranslogg (broadLog) och spårningsloggar som refererar till att en leverans läggs till varje gång den körs.
 
   ![Kontinuerlig leverans](/help/assets/delivery_continuous.jpg)
 
-* A **återkommande leverans** skapar en ny leveransinstans varje gång den körs. Om arbetsflödet till exempel är schemalagt att köras en gång i veckan resulterar det i 52 leveranser efter ett år. Det innebär också att de breda loggarna och spårningsloggarna separeras av varje leveransinstans.
+* En **återkommande leverans** skapar en ny leveransinstans varje gång den körs. Om arbetsflödet till exempel är schemalagt att köras en gång i veckan resulterar det i 52 leveranser efter ett år. Det innebär också att de breda loggarna och spårningsloggarna separeras av varje leveransinstans.
 
   ![Återkommande leverans](/help/assets/delivery_recurring.jpg)
 
@@ -38,10 +38,10 @@ De återkommande och kontinuerliga leveranserna skiljer sig åt när det gäller
 
 I den här videon förklaras hur du konfigurerar en återkommande leverans och en schemaläggningsaktivitet.
 
->[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12&learn=on){transcript=true}
 
 ## Så ställer du in en kontinuerlig leverans {#how-to-set-up-a-continuous-delivery}
 
 Den här videon visar hur du konfigurerar en kontinuerlig leverans med en stegvis frågeställning.
 
->[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12&learn=on){transcript=true}

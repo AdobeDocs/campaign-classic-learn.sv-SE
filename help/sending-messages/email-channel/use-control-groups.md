@@ -12,8 +12,8 @@ level: Beginner
 exl-id: e0128b5f-3f09-460b-8524-624edeb27c4f
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 98%
+source-wordcount: '95'
+ht-degree: 77%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 98%
 
 Förstå begreppet kontrollgrupper och läs om hur du använder en kontrollgrupp för leveransen.
 
->[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12&learn=on){transcript=true}
 
 >[!IMPORTANT]
 >Om det finns flera leveranser i målarbetsflödet måste du aktivera kontrollgruppsinställningarna på leveransnivån samt i kampanjinställningarna.
->Se produktdokumentationen för mer information om att [definiera en kontrollgrupp](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=sv#defining-a-control-group){target="_blank"} and [the delivery target population](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=sv){target="_blank"}
+>Mer information om [hur du definierar kontrollgrupper](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=sv#defining-a-control-group){target="_blank"} och [målpopulationen för leverans](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=sv){target="_blank"} finns i produktdokumentationen.

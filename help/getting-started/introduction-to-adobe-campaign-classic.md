@@ -13,7 +13,7 @@ exl-id: 40411fe3-44d8-4c2e-99df-940d17ab9f3e
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 96%
 
 Förstå hur Adobe Campaign Classic passar in i portföljen Adobe Digital Experience och få en översikt över dess primära funktioner.
 
->[!VIDEO](https://video.tv.adobe.com/v/35129?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35129?quality=12&learn=on){transcript=true}

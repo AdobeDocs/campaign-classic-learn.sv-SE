@@ -13,7 +13,7 @@ exl-id: 7c550413-4375-47ad-8687-e92195c69c7b
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
 source-wordcount: '37'
-ht-degree: 51%
+ht-degree: 56%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 51%
 
 Förstå inbyggd rapportering och analys i Campaign Classic och lär dig hur man skapar en leveransrapport.
 
->[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12&learn=on){transcript=true}

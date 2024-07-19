@@ -13,7 +13,7 @@ exl-id: d8d99d05-c974-4450-b6b4-b2c5dac27409
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 97%
 
 I följande video förklaras hur du hämtar och installerar klientkonsolen i Adobe Campaign, skapar och hanterar anslutningar till flera miljöer samt verifierar åtkomst till klientkonsolen i Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/35124?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35124?quality=12&learn=on){transcript=true}

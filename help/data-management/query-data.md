@@ -13,7 +13,7 @@ exl-id: 78a03e83-1546-4832-a6bf-2b35215378e8
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
 source-wordcount: '24'
-ht-degree: 16%
+ht-degree: 25%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 16%
 
 Lär dig hur du hämtar data med frågeredigeraren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415814?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3415814?quality=12&learn=on){transcript=true}

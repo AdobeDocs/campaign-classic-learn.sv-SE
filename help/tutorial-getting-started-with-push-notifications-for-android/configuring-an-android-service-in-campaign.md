@@ -1,6 +1,6 @@
 ---
 title: Konfigurera en Android-tjänst och skapa ett Android-mobilprogram i Campaign
-description: Lär dig hur du konfigurerar en Android-tjänst och skapar ett Android-mobilprogram i Campaign. Det krävs för att vi ska kunna definiera Neotrip-appen som mål för push-meddelandet.
+description: Lär dig hur du konfigurerar en Android-tjänst och skapar en Android-mobilapp i Campaign. Det krävs för att vi ska kunna definiera Neotrip-appen som mål för push-meddelandet.
 feature: Push
 jira: KT-6554
 thumbnail: 327788.jpg
@@ -12,20 +12,20 @@ level: Experienced
 exl-id: 47e66991-fbc4-4cbf-ad36-144a430ea62a
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 32%
+source-wordcount: '108'
+ht-degree: 33%
 
 ---
 
-# Konfigurera en [!DNL Android] och skapa [!DNL Android] mobilapplikation i Campaign
+# Konfigurera en [!DNL Android]-tjänst och skapa ett [!DNL Android]-mobilprogram i Campaign
 
 Lär dig hur du konfigurerar en [!DNL Android]-tjänst och skapar en mobil [!DNL Android]-app i Campaign. Det här steget krävs så att du kan definiera målmobilappen för push-meddelandet.
 
->[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12&learn=on){transcript=true}
 
 **Föregående steg**
 
-Steg 1: [Utöka programmets prenumerationsschema för att anpassa push-meddelanden](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
+Steg 1: [Utöka appprenumerationsschemat för att anpassa push-meddelanden](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
 
 **Nästa steg**
 

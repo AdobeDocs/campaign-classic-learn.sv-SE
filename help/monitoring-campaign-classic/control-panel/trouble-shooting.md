@@ -8,7 +8,7 @@ activity: use
 team: PM
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '315'
 ht-degree: 79%
 
 ---
@@ -34,18 +34,18 @@ Administratören måste lägga till användaren i Product Profile _Campaign-xxx-
 ### Symptom: En instans visas inte i [!UICONTROL Control Panel]
 
 **Orsak:**
-Den mest troliga användaren måste läggas till som en &quot;användare&quot;-produktprofil _Campaign-xxx-Administrators/Admin_ för instansen som saknas
+Den mest troliga användaren måste läggas till som en&quot;användare&quot;-produktprofil _Campaign-xxx-Administrators/Admin_ för den instans som saknas
 
 **Gör så här:**
 Administratören måste lägga till användaren i Produktprofil _Campaign-xxx-Admins_  för varje instans som ska hanteras. Om användaren är en administratör för alla instanser kan denne fortfarande behöva lägga till sig själv som &quot;användare&quot;.
 
 ### Användbara videor
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=on){transcript=true}
 
-*Kontrollera ett IMS-organisations-ID (00:26 min)*
+*Kontrollera IMS-organisations-ID (00:26 min)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on){transcript=true}
 
 *Så lägger du till en administratör i produktprofilen administratörer för att kunna använda [!UICONTROL Control panel] (01:03 min)*
 

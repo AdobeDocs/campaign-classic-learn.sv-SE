@@ -13,7 +13,7 @@ exl-id: 99b8acff-0105-4764-82ec-7c2dfe75f0f9
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
 source-wordcount: '32'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 93%
 
 Lär dig hur du konfigurerar och hanterar prenumerationer samt riktar dig till prenumeranter.
 
->[!VIDEO](https://video.tv.adobe.com/v/329941?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329941?quality=12&learn=on){transcript=true}

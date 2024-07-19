@@ -15,7 +15,7 @@ exl-id: f5694e76-4694-45f3-b4c1-3478f7543b3f
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 76%
+ht-degree: 77%
 
 ---
 
@@ -25,4 +25,4 @@ Förstå begreppet profiler i Adobe Campaign Classic. Lär dig hur du får åtko
 
 I den här videon förklaras också Adobe Campaign Classic överensstämmelse med den allmänna dataskyddsförordningen (GDPR) och California Consumer Privacy Act (CCPA).
 
->[!VIDEO](https://video.tv.adobe.com/v/35611?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35611?quality=12&learn=on){transcript=true}

@@ -10,7 +10,7 @@ exl-id: 58fba53b-c071-4256-94a7-df79f6500e29
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
 source-wordcount: '42'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -18,4 +18,4 @@ ht-degree: 95%
 
 Lär dig hur du löser problemet med att sessionen går ut när du godkänner ett erbjudande.
 
->[!VIDEO](https://video.tv.adobe.com/v/335898?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/335898?quality=12&learn=on){transcript=true}

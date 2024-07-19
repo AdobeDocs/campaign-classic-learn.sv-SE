@@ -11,8 +11,8 @@ level: Beginner
 exl-id: 66ce7a21-f0ca-47a5-80f7-ee8596fac7a7
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 98%
+source-wordcount: '155'
+ht-degree: 100%
 
 ---
 
@@ -41,6 +41,6 @@ Med [!UICONTROL Audit Trail] loggas och listas operatörsåtgärder som skapande
 
 I videon nedan beskrivs var du kan få åtkomst till granskningsspårets loggar och vilka inställningar som kan konfigureras.
 
->[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12&learn=on){transcript=true}
 
 Mer information finns i [Granskningsspårsdokumentationen](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=sv).

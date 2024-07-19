@@ -13,7 +13,7 @@ exl-id: 2345999f-074d-4456-a967-b9fd9760a328
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
 source-wordcount: '50'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 96%
 
 Lär dig hur du lägger till bilagor i en e-postleverans och hur du konfigurerar olika typer av e-postbilagor.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415789?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3415789?quality=12&learn=on){transcript=true}
