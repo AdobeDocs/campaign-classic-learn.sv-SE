@@ -5,7 +5,7 @@ user-guide-title: Självstudiekurser för Adobe Campaign Classic v7
 user-guide-description: Videofilmer och självstudiekurser för Adobe Campaign Classic v7.
 breadcrumb-title: Självstudiekurser för Campaign Classic v7
 auto-video-transcripts: true
-source-git-commit: 1dc9c2423e3643e8d73719f5813ea99e14414f9c
+source-git-commit: c87b64213114f35d01e0edd8b13b0bab483ec346
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 98%
@@ -47,6 +47,8 @@ ht-degree: 98%
       + [Felsök e-postleveransproblem](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [Lägga till bilagor i en e-postleverans](/help/sending-messages/email-channel/add-attachments-to-an-email-delivery.md)
       + [Utforma e-postmeddelanden för levererbarhet](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [Maximera e-postavkastningen och bästa praxis för att återengagera prenumeranter](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=sv)
+      + [Användarhandbok om god praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)
    + SMS-kanal {#sms-channel}
       + [Skapa en SMS-leverans](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Push-kanal {#push-channel}
@@ -106,5 +108,4 @@ ht-degree: 98%
 + [Felsök Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=sv)
 + Strategi och tankeledarskap{#strategy}
    + [De tio bästa metoderna för att marknadsförare ska lyckas med Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)
-   + [Maximera e-postavkastningen och bästa praxis för att återengagera prenumeranter](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=sv)
-   + [Användarhandbok om god praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)
+   + 
