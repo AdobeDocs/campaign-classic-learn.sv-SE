@@ -5,7 +5,7 @@ user-guide-title: Självstudiekurser för Adobe Campaign Classic v7
 user-guide-description: Videofilmer och självstudiekurser för Adobe Campaign Classic v7.
 breadcrumb-title: Självstudiekurser för Campaign Classic v7
 auto-video-transcripts: true
-source-git-commit: c87b64213114f35d01e0edd8b13b0bab483ec346
+source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 98%
@@ -108,4 +108,3 @@ ht-degree: 98%
 + [Felsök Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=sv)
 + Strategi och tankeledarskap{#strategy}
    + [De tio bästa metoderna för att marknadsförare ska lyckas med Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)
-   + 
