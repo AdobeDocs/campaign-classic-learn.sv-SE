@@ -21,4 +21,4 @@ ht-degree: 18%
 
 Lär dig hur du hämtar data med frågeredigeraren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415814?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447874?quality=12&learn=on&captions=swe){transcript=true}

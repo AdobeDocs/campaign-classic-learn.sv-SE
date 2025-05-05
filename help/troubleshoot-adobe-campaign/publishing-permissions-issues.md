@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Lär dig hur du åtgärdar publiceringsfel för icke-admin-användare
 
->[!VIDEO](https://video.tv.adobe.com/v/335979?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436711?quality=12&learn=on&captions=swe){transcript=true}

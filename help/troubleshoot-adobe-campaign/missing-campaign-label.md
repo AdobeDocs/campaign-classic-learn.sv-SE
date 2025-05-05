@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Lär dig hur du åtgärdar saknade kampanjetiketter i Analytics
 
->[!VIDEO](https://video.tv.adobe.com/v/335983?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436810?quality=12&learn=on&captions=swe){transcript=true}

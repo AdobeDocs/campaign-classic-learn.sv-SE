@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Lär dig hur du skapar en SMS-leverans.
 
->[!VIDEO](https://video.tv.adobe.com/v/330982?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441424?learn=on&captions=swe){transcript=true}

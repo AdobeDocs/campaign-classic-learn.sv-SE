@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Läs om hur du tillämpar god praxis för levererbarhet i din Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/330943?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452562?quality=12&learn=on&captions=swe){transcript=true}
 
 ## Ytterligare resurser
 

@@ -21,6 +21,6 @@ ht-degree: 5%
 
 Lär dig hur du skapar och konfigurerar landningssidor.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415819/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448910/?quality=12&learn=on&captions=swe){transcript=true}
 
 Mer information finns i den detaljerade dokumentationen om [Skapa en landningssida](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html?lang=sv-SE).

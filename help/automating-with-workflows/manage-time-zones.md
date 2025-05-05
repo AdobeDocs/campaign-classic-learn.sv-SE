@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Lär dig hur du tillämpar tidszoner för schemalagda arbetsflödesaktiviteter.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416040?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443851?quality=12&learn=on&captions=swe){transcript=true}

@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Förstå processen att skapa en e-postleverans och läs om hur du utformar och personaliserar e-postinnehåll.
 
->[!VIDEO](https://video.tv.adobe.com/v/330941?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447781?quality=12&learn=on&captions=swe){transcript=true}
 
 Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html?lang=sv)

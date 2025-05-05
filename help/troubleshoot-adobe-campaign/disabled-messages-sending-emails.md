@@ -17,4 +17,4 @@ ht-degree: 100%
 # Inaktiverade meddelanden som utlöser e-post
 
 Lär dig hur du stoppar e-postmeddelanden från inaktiverade meddelanden
->[!VIDEO](https://video.tv.adobe.com/v/335981?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437115?quality=12&learn=on&captions=swe){transcript=true}

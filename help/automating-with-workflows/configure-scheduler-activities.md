@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Lär dig hur du konfigurerar en schemaläggaraktivitet i ett arbetsflöde.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416037?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447112?quality=12&learn=on&captions=swe){transcript=true}

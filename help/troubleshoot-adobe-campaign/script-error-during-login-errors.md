@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Lär dig hur du åtgärdar fel eller varningar som visas under inloggningen till Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/335975?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436218?quality=12&learn=on&captions=swe){transcript=true}

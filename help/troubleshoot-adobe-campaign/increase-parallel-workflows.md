@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Lär dig hur du kan öka antalet kampanjarbetsflöden som kan köras på instansen parallellt.
 
->[!VIDEO](https://video.tv.adobe.com/v/335982?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436578?quality=12&learn=on&captions=swe){transcript=true}

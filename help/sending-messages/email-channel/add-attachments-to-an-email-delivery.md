@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Lär dig hur du lägger till bilagor i en e-postleverans och hur du konfigurerar olika typer av e-postbilagor.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415789?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452993?quality=12&learn=on&captions=swe){transcript=true}

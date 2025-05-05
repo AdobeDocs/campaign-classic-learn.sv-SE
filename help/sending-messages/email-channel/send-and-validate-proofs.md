@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Läs om hur du skickar och validerar ett bevis.
 
->[!VIDEO](https://video.tv.adobe.com/v/330945?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448921?learn=on&captions=swe){transcript=true}

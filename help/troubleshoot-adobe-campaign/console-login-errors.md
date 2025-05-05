@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Lär dig hur du åtgärdar fel som uppstår under konsolinloggning
 
->[!VIDEO](https://video.tv.adobe.com/v/335896?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437770?quality=12&learn=on&captions=swe){transcript=true}

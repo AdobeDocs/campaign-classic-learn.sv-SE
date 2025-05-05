@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Lär dig hur du genomför en kampanj, granskar en e-postleverans och leveransegenskaperna.
 
->[!VIDEO](https://video.tv.adobe.com/v/329647?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453382?quality=12&learn=on&captions=swe){transcript=true}

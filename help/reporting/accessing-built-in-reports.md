@@ -21,4 +21,4 @@ ht-degree: 56%
 
 Förstå inbyggd rapportering och analys i Campaign Classic och lär dig hur man skapar en leveransrapport.
 
->[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449490?quality=12&learn=on&captions=swe){transcript=true}

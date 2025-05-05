@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Lär dig att utföra ett korrekt ovillkorligt stopp i arbetsflödet
 
->[!VIDEO](https://video.tv.adobe.com/v/335887?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437451?quality=12&learn=on&captions=swe){transcript=true}

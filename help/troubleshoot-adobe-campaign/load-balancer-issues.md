@@ -16,4 +16,4 @@ ht-degree: 100%
 # Problem med belastningsutjämnare
 
 Lär dig hur du åtgärdar belastningsutjämnarproblem vid instansomstart
->[!VIDEO](https://video.tv.adobe.com/v/335984?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437495?quality=12&learn=on&captions=swe){transcript=true}
