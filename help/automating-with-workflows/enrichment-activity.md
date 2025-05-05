@@ -24,4 +24,4 @@ Lär dig hur du konfigurerar en berikande aktivitet baserat på information i le
 
 >[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12&learn=on){transcript=true}
 
-Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html)
+Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=sv-SE)

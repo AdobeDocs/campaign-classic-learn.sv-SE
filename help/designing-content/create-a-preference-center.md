@@ -24,4 +24,4 @@ Lär dig hur du skapar ett inställningscenter med Adobe Campaign webbprogramsre
 
 >[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12&learn=on){transcript=true}
 
-Mer information finns i den detaljerade dokumentationen om [Skapa en landningssida](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).
+Mer information finns i den detaljerade dokumentationen om [Skapa en landningssida](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html?lang=sv-SE).

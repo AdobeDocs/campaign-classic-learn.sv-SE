@@ -24,4 +24,4 @@ Lär dig hur du ställer in godkännanden och en kampanj och hur du skiljer mell
 
 >[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12&learn=on){transcript=true}
 
-Mer information om hur du definierar godkännanden finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=en#sending-emails).
+Mer information om hur du definierar godkännanden finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=sv-SE#sending-emails).

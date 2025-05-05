@@ -22,5 +22,5 @@ Adobe Campaign använder arbetsflöden för att genomföra riktade kampanjer, by
 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12&learn=on){transcript=true}
 
-Se dokumentationen [om arbetsflöden](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
-och [ om målinriktade aktiviteter ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) för mer information.
+Se dokumentationen [om arbetsflöden](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=sv-SE)
+och [ om målinriktade aktiviteter ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=sv-SE) för mer information.

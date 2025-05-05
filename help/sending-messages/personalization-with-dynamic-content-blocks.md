@@ -44,4 +44,4 @@ Genom att konfigurera fält med villkorsstyrt innehåll kan du skapa avancerad p
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on){transcript=true}
 
-Mer information om Personalization finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).
+Mer information om Personalization finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=sv-SE).

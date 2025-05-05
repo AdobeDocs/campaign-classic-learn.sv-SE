@@ -23,4 +23,4 @@ Förstå de olika typerna av dynamiskt innehåll och lär dig hur du skapar och 
 
 >[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12&learn=on){transcript=true}
 
-Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=en).
+Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=sv-SE).
