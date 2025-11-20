@@ -8,14 +8,14 @@ auto-video-transcripts: true
 source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 98%
+ht-degree: 92%
 
 ---
 
 
 # Självstudiekurser för Adobe Campaign Classic v7 {#tutorials}
 
-+ [Adobe Campaign Classic V7 - Tutorials](/help/overview.md)
++ [Adobe Campaign Classic V7 - självstudiekurser](/help/overview.md)
 + Kom igång {#getting-started}
    + [Introduktion till Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Installera och konfigurera Adobe Campaign-klienten](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
@@ -51,11 +51,11 @@ ht-degree: 98%
       + [Användarhandbok om god praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)
    + SMS-kanal {#sms-channel}
       + [Skapa en SMS-leverans](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
-   + Push-kanal {#push-channel}
+   + Skjut kanal {#push-channel}
       + [Installera den mobila appkanalen](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Konfigurera push-kanal med Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
       + [Kom igång med push-meddelanden för Android (självstudiekurs)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=sv)
-   + Direktutskick {#direct-mail}
+   + Direktmeddelande {#direct-mail}
       + [Skapa leveranser med direktutskick](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + Använd leveransmallar{#using-delivery-templates}
       + [Konfigurera en leveransmall](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
@@ -72,7 +72,7 @@ ht-degree: 98%
    + [Introduktion till flerkanals- och tvärkanalskampanjer](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [Skapa flerkanalskampanjer](/help/orchestrating-campaigns/multi-channel-campaigns.md)
    + [Skapa tvärkanalskampanjer](/help/orchestrating-campaigns/cross-channel-campaigns.md)
-+ Rapportera {#reporting}
++ Rapport {#reporting}
    + [Åtkomst till inbyggda rapporter](/help/reporting/accessing-built-in-reports.md)
    + [Generera en beskrivande analysrapport](/help/reporting/generating-a-descriptive-analysis-report.md)
 + Automatisera med arbetsflöde{#automating-with-workflows}
@@ -103,7 +103,7 @@ ht-degree: 98%
 + Administrera {#administrating}
    + [Kontrollpanelen](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=sv){target="_blank"}
    + [Konfigurera SMS för Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=sv)
-   + Komma åt en extern databas (FDA) {#fda}
+   + Åtkomst till en extern databas (FDA) {#fda}
       + [Stordatahantering på  [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Felsök Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=sv)
 + Strategi och tankeledarskap{#strategy}
