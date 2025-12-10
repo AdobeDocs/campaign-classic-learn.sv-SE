@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Förstå begreppet kontrollgrupper och läs om hur du använder en kontrollgrupp för leveransen.
 
->[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449974?captions=swe&quality=12&learn=on){transcript=true}
 
 >[!IMPORTANT]
 >Om det finns flera leveranser i målarbetsflödet måste du aktivera kontrollgruppsinställningarna på leveransnivån samt i kampanjinställningarna.
