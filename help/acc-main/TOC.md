@@ -6,16 +6,16 @@ user-guide-description: Videofilmer och självstudiekurser för Adobe Campaign C
 breadcrumb-title: Självstudiekurser för Campaign Classic v7
 auto-video-transcripts: true
 source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '415'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
 
 # Självstudiekurser för Adobe Campaign Classic v7 {#tutorials}
 
-+ [Adobe Campaign Classic V7 - självstudiekurser](/help/overview.md)
++ [Självstudiekurser för Adobe Campaign Classic v7](/help/overview.md)
 + Kom igång {#getting-started}
    + [Introduktion till Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Installera och konfigurera Adobe Campaign-klienten](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
@@ -25,7 +25,7 @@ ht-degree: 92%
    + [Skapa en kampanj och ett e-postmeddelande](/help/getting-started/creating-a-campaign-and-an-email.md)
    + [Rikta in dig mot profiler i ett arbetsflöde](/help/getting-started/targeting-profiles-in-a-workflow.md)
    + [Skapa händelseaktiverade kampanjer](/help/getting-started/create-event-triggered-campaigns.md)
-+ Profilhantering {#profile-management}
++ Profilhantering  {#profile-management}
    + [Skapa och hantera profiler](/help/profile-management/create-and-manage-profiles.md)
    + [Importera profiler](/help/data-management/importing-profiles.md)
    + [Skapa en lista med mottagare](/help/profile-management/creating-a-list-of-recipients.md)
@@ -51,7 +51,7 @@ ht-degree: 92%
       + [Användarhandbok om god praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)
    + SMS-kanal {#sms-channel}
       + [Skapa en SMS-leverans](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
-   + Skjut kanal {#push-channel}
+   + Push-kanal {#push-channel}
       + [Installera den mobila appkanalen](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Konfigurera push-kanal med Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
       + [Kom igång med push-meddelanden för Android (självstudiekurs)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=sv)
@@ -72,7 +72,7 @@ ht-degree: 92%
    + [Introduktion till flerkanals- och tvärkanalskampanjer](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [Skapa flerkanalskampanjer](/help/orchestrating-campaigns/multi-channel-campaigns.md)
    + [Skapa tvärkanalskampanjer](/help/orchestrating-campaigns/cross-channel-campaigns.md)
-+ Rapport {#reporting}
++ Rapportera {#reporting}
    + [Åtkomst till inbyggda rapporter](/help/reporting/accessing-built-in-reports.md)
    + [Generera en beskrivande analysrapport](/help/reporting/generating-a-descriptive-analysis-report.md)
 + Automatisera med arbetsflöde{#automating-with-workflows}
@@ -92,7 +92,7 @@ ht-degree: 92%
    + [Konfigurera landningssidor](/help/designing-content/configure-landingpages.md)
    + [Skapa ett preferenscenter](/help/designing-content/create-a-preference-center.md)
 + [Skapa en enkät](/help/designing-content/create-a-survey.md)
-+ Bildskärm {#monitoring}
++ Övervaka {#monitoring}
    + [Värmekarta för arbetsflöde](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [Granskningsspår](/help/monitoring-campaign-classic/audit-trail.md)
 + Datahantering {#data-management}
