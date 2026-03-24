@@ -6,33 +6,33 @@ solution: Campaign, Campaign Classic v7
 version: Campaign Classic v7
 feature-set: Campaign
 mini-toc-levels: 3
-git-repo: https://github.com/AdobeDocs/campaign-classic-learn.sv-SE
+git-repo: https://github.com/AdobeDocs/campaign-classic-learn.en
 index: true
-source-git-commit: 8b3e7a5dcc8b55cbc0fdb5c4220dc1329e320259
-workflow-type: ht
-source-wordcount: '128'
-ht-degree: 100%
+source-git-commit: 5a07e5b566e2d8b2340c159a174b4487b444187e
+workflow-type: tm+mt
+source-wordcount: '149'
+ht-degree: 0%
 
 ---
 
 
 # Metadata för intern användning
 
-Filen metadata.md innehåller metadata på arkivnivå som skickas till användarhandbokens TOC.md-filer i arkivet. Om du vill ändra innehåll i metadata.md för någon användarhandbok gör du detta i en TOC.md-fil.
+Filen metadata.md innehåller metadata på postnivå som skickas till TOC.md-filer för användarhandboken i svaret. Om du vill ändra metadata.md-innehåll för en användarhandbok gör du det i en TOC.md-fil.
 
-| metadata | vad gör den |
+| metadata | vad den gör |
 |--- |--- |
-| solution-title | Används i artikelrubriken som en länk |
-| solution-hub-url | Öppnar den centrala helpx-sidan |
-| solution-icon | Visar lösningsikonen bredvid lösningstiteln Inte implementerat ännu |
-| getting-started-url | Länk till startsidan i helpx |
-| tutorials-url | Länk till videosjälvstudiekurser – antingen helpx-självstudiekurser eller KT-självstudiekurser |
-| mini-toc-levels | Anger antalet rubriknivåer som visas i det högra fältet. standard är två |
-| git-repo | Anger platsen för det överordnade arkivet som används internt |
+| solution-title | Används i artikelrubriken som länk |
+| solution-hub-url | Öppnar navet för hjälpfunktioner |
+| solution-icon | Visar lösningsikonen bredvid lösningsrubriken. Inte implementerat ännu |
+| getting-started-url | Länk till hjälpsidan Komma igång |
+| tutorials-url | Länka till videosjälvstudiekurser - antingen hjälpstudiekurser eller självstudiekurser på engelska |
+| mini-toc-nivåer | Anger antalet rubriknivåer som visas i den högra listen. standard är 2 |
+| git-repo | Anger platsen för huvudrapporten för intern användning |
 
 I filen TOC.md
 
-| metadata | vad gör den |
+| metadata | vad den gör |
 |--- |--- |
-| user-guide-title | Används i artikelrubriken som en länk |
-| user-guide-url | Öppnar den centrala helpx-sidan |
+| user-guide-title | Används i artikelrubriken som länk |
+| user-guide-url | Öppnar navet för hjälpfunktioner |
