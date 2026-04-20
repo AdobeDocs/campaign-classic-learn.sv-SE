@@ -1,5 +1,5 @@
 ---
-title: Så här integrerar du Dynamics 365 med Adobe Campaign Classic
+title: Integrera Dynamics 365 med Adobe Campaign Classic
 description: I den här videon visas hur du integrerar Dynamics 365 med Adobe Campaign Classic.
 targetaudience: target-audience new;target-audience ongoing
 feature: Microsoft CRM Integration
@@ -12,14 +12,14 @@ level: Experienced
 hide: true
 hidefromtoc: true
 exl-id: d6ce139f-4d03-477f-94a5-9bab2c7b966c
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+source-git-commit: 72d10799b685f0925d5e6dd8b8df5cf0ff38ed98
 workflow-type: tm+mt
-source-wordcount: '44'
-ht-degree: 45%
+source-wordcount: '42'
+ht-degree: 0%
 
 ---
 
-# Så här integrerar du Dynamics 365 med Adobe Campaign Classic
+# Integrera Dynamics 365 med Adobe Campaign Classic
 
 I den här videon visas hur du integrerar Dynamics 365 med Adobe Campaign Classic.
 
